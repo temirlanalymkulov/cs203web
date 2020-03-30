@@ -15,8 +15,5 @@ __*#CS 203 Web tasks*__
 	- [ ] modal form with disclaimer
 	- [ ] favicon
 
-![AutoBot](x-special/nautilus-clipboard
-copy
-file:///home/tima/Desktop/cs203web/screenshot.png
-)
+![AutoBot](screenshot.png?raw=true "Optional Title")
 
