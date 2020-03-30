@@ -15,4 +15,8 @@ __*#CS 203 Web tasks*__
 	- [ ] modal form with disclaimer
 	- [ ] favicon
 
-![AutoBot](file:///home/tima/Desktop/cs203web/images/Screenshot%20from%202020-03-30%2008-37-52.png)
+![AutoBot](x-special/nautilus-clipboard
+copy
+file:///home/tima/Desktop/cs203web/screenshot.png
+)
+
